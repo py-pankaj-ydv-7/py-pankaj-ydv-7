@@ -1,30 +1,11 @@
-💫 About Me:
-🔭 I’m currently working on:
-Improving cloud-based solutions and implementing microservices architecture.
+🚀 Frontend Developer | React.js • JavaScript • HTML • CSS
 
-👯 I’m looking to collaborate on:
-Fullstack projects
+👋 Hi, I’m Pankaj Yadav – passionate about building responsive, user-focused web apps.
 
-🌱 I’m currently learning:
-Advanced AWS Services and GraphQL.
+🔧 Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind, Git
 
-💬 Ask me about:
-JavaScript, React, Nextjs, Node.js, AWS, and any general software development questions.
+🌱 Currently learning: Full-stack best practices & performance optimization
 
-⚡ Fun fact:
-I love creating content.### Hi there 👋
+💼 Open to frontend roles, internships, or freelance collabs
 
-<!--
-**py-pankaj-ydv-7/py-pankaj-ydv-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Portfolio: pankaj-yadav.vercel.app
