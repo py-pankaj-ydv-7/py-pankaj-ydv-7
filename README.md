@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Pankaj Yadav – passionate about building responsive, user-focused web apps.
 
-🔧 Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind, Git
+🔧 Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind, Git, GitHub
 
 🌱 Currently learning: Full-stack best practices & performance optimization
 
