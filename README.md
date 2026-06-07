@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="github" src="https://github.com/user-attachments/assets/23ef0b50-4ffc-4615-aeca-c7adc540c4d1" />
 # 💫 About Me:
 🚀 Frontend Developer | React.js • JavaScript • HTML • CSS<br><br>👋 Hi, I’m Pankaj Yadav – passionate about building responsive, user-focused web apps.<br><br>🔧 Tech Stack: React.js, JavaScript, HTML, CSS, Tailwind, Git, GitHub<br><br>🌱 Currently learning: Full-stack best practices & performance optimization<br><br>💼 Open to frontend roles, internships, or freelance collabs<br><br>🔗 Portfolio: pankaj-yadav.vercel.app<br>
 
